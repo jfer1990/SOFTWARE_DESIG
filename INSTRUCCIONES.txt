@@ -1,0 +1,5 @@
+Pasos para compilar y ejecutar programa
+1.- Si está usando un equipo con OS WINDOWS:
+2.- Si está usando un equipo con OS basado en lINUX:
+3.- Si está usando un equipo con OS MAC:
+
